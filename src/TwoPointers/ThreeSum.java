@@ -1,3 +1,7 @@
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Arrays;
+
 class Solution {
     public List<List<Integer>> threeSum(int[] arr) {
         Arrays.sort(arr);

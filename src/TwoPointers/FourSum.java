@@ -6,7 +6,7 @@ Time Complexity: O(n^3)
 Space Complexity: O(1)
 */
 
-package TwoPointers;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
